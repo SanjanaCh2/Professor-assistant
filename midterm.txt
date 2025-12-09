@@ -1,0 +1,63 @@
+--- Exam for Professor Ibrahim Musa ---
+--- Number of Questions: 20 ---
+
+Question 1: An image on a computer screen is made up of__?
+Answer 1: Pixels
+------------------------------
+Question 2: The technology that stores only essential instructions on a microprocessor chip and thus enhances its speed is referred as__?
+Answer 2: RISC
+------------------------------
+Question 3: EEPROM stands for__?
+Answer 3: Electronic Erasable Programmable Read Only Memory
+------------------------------
+Question 4: Which button makes alphabets/letters in uppercase and lowercase and numbers to symbols?
+Answer 4: Shift
+------------------------------
+Question 5: Name of 1st electronic computer?
+Answer 5: ENIAC
+------------------------------
+Question 6: Office LANS, which are scattered geographically on large scale, can be connected by the use of corporate__?
+Answer 6: WAN (Wide Area Network)
+------------------------------
+Question 7: What are Light pen and joystick ?
+Answer 7: Input Devices
+------------------------------
+Question 8: Daisy wheel, Drum, chain etc are the__?
+Answer 8: Printers
+------------------------------
+Question 9: Unwanted repetitious messages, such as unsolicited bulk e-mail is known as__?
+Answer 9: Spam
+------------------------------
+Question 10: What does DMA stand for?
+Answer 10: Direct Memory Access
+------------------------------
+Question 11: An error in software or hardware is called a bug. What is the alternative computer jargon for it?
+Answer 11: Glitch
+------------------------------
+Question 12: Which is most common tool used to restrict access to computer system?
+Answer 12: Passwords
+------------------------------
+Question 13: Something which has easily understood instructions is said to be..........?
+Answer 13: Analog Data
+------------------------------
+Question 14: Who developed the first electronic computer?
+Answer 14: J.V. Atansoff
+------------------------------
+Question 15: First page of Website is termed as__?
+Answer 15: Homepage
+------------------------------
+Question 16: A program that performs a useful task while simultaneously allowing destructive acts is __?
+Answer 16: Trojan Horse
+------------------------------
+Question 17: To move a copy of file from one computer to another over a communication channel is called?
+Answer 17: File Transfer
+------------------------------
+Question 18: What kind of scheme is the HTTP protocol?
+Answer 18: Request/Response
+------------------------------
+Question 19: What is the meaning of OSI, in terms of computers ?
+Answer 19: Open system Interconnection
+------------------------------
+Question 20: The basic goal of computer process is to convert data into ___?
+Answer 20: Information
+------------------------------
